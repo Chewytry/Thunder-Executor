@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Chewytry/Chewytry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">A passionate Data Scientist from Singapore</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chewytry&label=Profile%20views&color=0e75b6&style=flat" alt="chewytry" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chewytry&show_icons=true&locale=en" alt="chewytry" /></p>
 -->
