@@ -10,8 +10,11 @@ I have a personal website! You can find more about me [here](https://chew-yucai.
 
 ### Tech Expertise 🛠️
 Languages: Python, Java, SQL, JavaScript, TypeScript, HTML/CSS, R, C#
+
 Frameworks & Libraries: Angular, Flask, Streamlit
+
 Tools: Docker, Git, Azure
+
 Machine Learning: Pandas, Numpy, Langchain, Keras, Tensorflow, Pytorch
 
 ### Projects
